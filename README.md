@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+My name is Chetan Jain, I am a Full Stack Developer with great passion for programming. I am no nonsense about delivering solutions that add to people lives and at the same time challenge me. Improved my skills as a Front-End and Back-End developer
+
+[![Chetan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jainChetan81)](https://github.com/jainChetan81/github-readme-stats)
