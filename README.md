@@ -5,7 +5,6 @@
 
 # Hi there 👋, my name is Chetan
 ## From UX to Full Stack
-![From UX to Full Stack]()
 
  <p align="center">
     <img src="https://ik.imagekit.io/clhowstalgz/icons/illustration" alt="Chetan Banner" />
