@@ -10,18 +10,18 @@
     <img src="https://ik.imagekit.io/clhowstalgz/icons/illustration" alt="Chetan Banner" />
 </p>
 
-I am Chetan Jain, I am a Full Stack Developer with great passion for programming. I develop websites and applications using HTML, CSS, and JavaScript. I choose different technologies ranging from front end and back end to mobile applications and I always improve myself with each project that I choose to challenge myself with.
+I am Chetan Jain, I am a Full Stack Developer with great passion for programming. I develop websites and applications using HTML, CSS, and JavaScript. I choose different technologies ranging from front end and back end to mobile application.
 
 ## Skills and Experience
-* 🕸️ React and Next
-* 📱 Flutter
-* 💻 HTML, SCSS, TS
+* 🕸️ React, Prisma, NextJS
+* 📱 React Native
+* 💻 HTML, CSS, JS/TS
 
 ## Status
-- 🔭 I’m currently working on this [Todo List](https://github.com/jainChetan81/Todo-List). 
+- 🔭 I’m currently working on this [NextJS Project(Restaurant App)](https://github.com/jainChetan81/Restraunt-App). 
 - 🌱 I’m currently learning Flutter 
-- 🤔 I’m looking for help with Writting Go sub-routines 
-- 📫 How to reach me: [here](https://thechetanjain.in/#contact) 
+- 🤔 I’m looking for help with learning GO for backend.
+- 📫 How to reach me: [here](https://thechetanjain.com/#contact) 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/jainChetan81)    [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/https://dev.to/jainchetan81)     [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/jainchetan81//)    [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/jainchetn)    [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/https://stackoverflow.com/users/10671677/jainchetan81)    [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://thechetanjain.in/)  
